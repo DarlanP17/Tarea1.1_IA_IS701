@@ -3,6 +3,7 @@
 
 numero = int(input("Por favor, ingrese un número: "))
 
+#Se imprime la tabla
 print(f"\nTabla de multiplicar del {numero}:")
 print("-" * 20)
 
